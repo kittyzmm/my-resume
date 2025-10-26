@@ -1,0 +1,16 @@
+body{
+    background-color: #ffbcd9;
+    color: #bd0078;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+h1{
+    text-shadow: 5px 3px 3px rgba(0, 0, 0, 0.4);
+}
+h2{
+    font-size: 30px;
+}
+img{
+    border-radius: 30px;
+    filter: drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.4));
+}
